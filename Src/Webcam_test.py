@@ -1,3 +1,5 @@
+import pwd
+
 import cv2  # OpenCV: the library for working with video and images
 
 # Open the default webcam (0 = first camera)
